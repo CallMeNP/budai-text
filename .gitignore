@@ -1,4 +1,10 @@
 venv/
 .idea/
-.swp
-.swo
+*.swp
+*.swo
+.obsidian/workspace.json
+.obsidian/plugins/metadata-extractor/allExceptMd.json
+.obsidian/plugins/metadata-extractor/canvas.json
+.obsidian/plugins/metadata-extractor/manifest.json
+.obsidian/plugins/metadata-extractor/metadata.json
+
