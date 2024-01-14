@@ -1,4 +1,4 @@
-# test myst md
+# test page
 
 ## h2
 asdf []{#myst-inline-target} asdf
